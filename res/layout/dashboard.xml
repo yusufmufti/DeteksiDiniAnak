@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical" 
+    android:background="@drawable/baby2">
+    
+     <Button
+        
+        android:background="#f39c12"
+        android:textColor="#fff"
+        android:id="@+id/btnKSPS"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Deteksi Dini Standar"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+    
+    <Button
+        android:layout_marginTop="10dp"
+        android:background="#f39c12"
+        android:textColor="#fff"
+        android:id="@+id/btnPendengaran"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Deteksi Dini Pendengaran"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+    
+   
+
+</LinearLayout>
+

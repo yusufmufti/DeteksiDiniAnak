@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Deteksi Dini</string>
+   
+    <string name="action_add">Add</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_about">About</string>
+    <string name="action_search">Search</string>
+    <string name="action_save">Save</string>
+    
+    <string name="page_admin">Admin</string>
+    <string name="page_home">Home</string>
+    <string name="page_update">Update</string>
+    <string name="page_add">Add</string>
+
+  
+    
+    
+    
+        <string-array name="soal">
+        <item>Pada waktu bayi terlentang, apakah masing-masing lengan dan tungkai bergerak dengan mudah? 
+            Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah atau tak terkendali. #ya #tidak #ya #gerak kasar #null</item>
+        <item>Pada waktu bayi terlentang, apakah ia melihat dan menatap wajah Anda? #ya #tidak #ya #sosialisasi dan kemandirian #null</item>
+        <item>Apakah bayi dapat mengeluarkan suara-suara lain(ngoceh) di samping menangis? #ya #tidak #ya #gerak halus #null</item>
+        <item>Pada waktu bayi terlentang, apakah ia dapat mengikuti gerakan Anda dengan menggerakkan kepalanya dari kanan/kiri ke tengah? #ya #tidak #ya #gerak halus #empat</item>
+        <item>Pada waktu bayi terlentang, apakah ia dapat mengikuti gerakan Anda dengan menggerakkan kepalanya dari satu sisi hampir sampai pada sisi yang lain? #ya #tidak #ya #gerak halus #lima</item>
+        <item>Pada waktu Anda mengajak bayi bicara dan tersenyum, apakah ia tersenyum kembali kepada Anda? #ya #tidak #ya #sosialisasi dan kemandirian #null</item>
+        <item>Pada waktu bayi telungkup di atas yang datar, apakah ia dapat mengangkat 	kepalanya seperti pada gambar? #ya #tidak #ya #gerak kasar #tujuh</item>
+        <item>Pada waktu bayi telungkup di atas yang datar, apakah ia dapat mengangkat 	kepalanya sehingga membentuk sudut 45 derajat seperti pada gambar? #ya #tidak #ya #gerak kasar #delapan</item>
+        <item>Pada waktu bayi telungkup di atas yang datar, apakah ia dapat mengangkat 	kepalanya dengan tegak seperti pada gambar? #ya #tidak #ya #gerak kasar #sembilan</item>
+        <item>Apakah bayi suka tertawa keras walau digelitik atau diraba-raba #ya #tidak #ya #bicara dan bahasa #null</item>   
+        
+    </string-array>
+    
+        <string-array name="soal6bulan">
+        <item>Pada waktu bayi telentang,apakah dia dapat mengikuti gerakan anda dengan menggerakkan kepala sepenuhnya dari satu sisi ke sisi lain #ya #tidak #ya #gerak halus #a_satu</item>
+        <item>Dapatkah bayi mempertahankan posisi kepala dalam keadaan tegak dan stabil? Jawab TIDAK bila kepala bayi cenderung jatuh ke kanan/kiri atau ke dadanya #ya #tidak #ya #gerak kasar #null</item>
+        <item>Sentuhkan pensil di punggung tangan atau ujung jari bayi (jangan meletakkan di atas telapak tangan bayi). Apakah bayo dapat menggenggam pensil itu selama beberapa detik? #ya #tidak #ya #gerak halus #a_tiga</item>
+        <item>Ketika bayi telungkup di alas datar , apakah ia dapat mengangkat dada dengam kedua lengannya sebagai penyangga seperti pada gambar? #ya #tidak #ya #gerak kasar #a_empat</item>
+        <item>Pernahkan bayi mengeluarkan suara gembira bernada tinggi atau memekik tetapi bukan menangis? #ya #tidak #ya #bicara dan bahasa #null</item>
+        <item>Pernahkan bayi berbalik palinh sedikit dua kali, dari telentang ke telungkup atau sebaliknya? #ya #tidak #ya #gerak kasar #null</item>
+        <item>Pernahkan anda melihat bayi tersenyum ketoka mrlihat mainan lucu ,gambar atau binatang pelijaraan pada saat ia bermain sendiri? #ya #tidak #ya #sosialisasi dan kemandirian #null</item>
+        <item>Dapatkah bayi mengarahkan matanya pada benda kecil sebesar kacang, kismis atau uang logam? jawan TIDAK jika ia tidak dapat mengarahkan matanya #ya #tidak #ya #gerak halus #null</item>
+        <item>Dapatkah bayi meraih mainan yanh diletakkan agak jauh namun masih berada dalam jangkauan tangannya? #ya #tidak #ya #gerak halus #null</item>
+        <item>Pada posisi bayo telentang, peganh kedua tangannya lalu tarik perlahan lahan ke posisi duduk. Dapatkah bayi mempertahankan lehernya secara kaku seperti gambar di sebelah kiri? jawab TIDAK bila kepala bayi jatuh kembali seperti gambar sebelah kanan #ya #tidak #ya #gerak kasar #a_sepuluh</item>   
+        
+    </string-array>
+    
+    <string-array name="pendengar6bulan">
+        <item>Pada waktu bayi tidur kemudian anda berbicara atau membuat kegaduhan apakah bayi akan bergerak atau terbangun dari tidurnya? #ya #tidak #ya </item>
+        <item>Pada waktu bayi tidur telentang dan anda duduk di dekat kepala bayi pada posisi yang tidak terlihat oleh bayi ,kemudian anda bertepuk tangan dengan keras ,apakah bayi terkejut atau mengedipkan matanya atau menegangkan tubuh sambil mengangkat kaki tangannya ke atas? #ya #tidak #ya </item>
+        <item>Apabila ada suara nyaring (misal suara batuk,salak anjing, piring jatuh ke laintai dll), apakah bayi terkejut atau terlompat? #ya #tidak #ya</item>
+         
+    </string-array>
+    <string-array name="pendengar9bulan">
+        <item>Pada waktu bayi sedang tidur ,kemudia anda berbicara atau membuat kegaduhan ,apakah bayi akan bergerak atau terbangun dari tidurnya? #ya #tidak #ya </item>
+        <item>Pada waktu bayi tidur telentang dan anda duduk di dekat kepala bayi pada posisi yang tidak terlihat oleh bayi ,kemudian anda bertepuk tangan dengan keras ,apakah bayi terkejut atau mengerdipkan matanya atau menegangkan tubuh sambil mengangkat kaki tangannya ke atas? #ya #tidak #ya </item>
+        <item>Apabila ada suara nyaring (suara batuk, salak anjing,piring jatuh ke lantai dll) apakah bayo terkejut atau terlompat? #ya #tidak #ya</item>
+         <item>Anda berada di sisi yang tidak terlihat oleh bayi sebut namanya atau bunyikan sesuatu ,apakah bayi memalingkan kepala mencari sumber suara? #ya #tidak #ya</item>
+    </string-array>
+    
+        <string name="hasil1">
+            1.	Selamat , Karena ibu telah mengasuh anak ini dengan baik
+\n2.	Teruskan pola asuh anak sesuai dengan tahap perkembangan anak
+\n3.	Berikan stimulasi perkembangan anak setiap saat, sesering mungkin sesuai dengan umur dan kesiapan anak
+\n4.	Ikutkan anak pada kegiatan penimbangan dan pelayanan kesehatan di posyandu secara teratur sebulan 1 kali dan setiap ada kegiatan Bina Keluarga Balita (BKB). Jika anak sudah memasuki usia prasekolah (36-72 BULAN , ANAK DAPAT DIIKUTKAN PADA KEGIATAN DI Pusat Pendidikan Anak Usia Dini (PAUD) , kelompok bermain dan taman anak anak
+\n5.	Lakukan pemeriksaan / skrining rutin menggunakan KPSP setiap 3 bulan pada anak berumur kurang dari 24 bulan dan setiap 6 bulan pada anak umur 24 sampai 72 bualn          
+        </string>
+    
+        <string name="hasil2">
+            1.	Berikan petunjuk pada ibu agar melakukan stimulasi perkembangan pada anak lebih sering lagi, setiap saat dan sesering mungkin
+\n2.	Ajarkan ibu cara melakukan intervensi stimulasi perkembangan anak untuk mengatasi penyimpangan /mengejar ketertinggalan
+\n3.	Lakukan pemeriksaan kesehatan untuk mencari kemungkinan adanya penyakit yang menyebabkan penyimpangan perkembangannya
+\n4.	Lakukan penilaian ulang KPSP 2 minggu kemudian dengan menggunakan daftar KPSP yang sesuai dengan umur anak
+\n5.	Jika Hasil KPSP ulang jawaban Ya tetap 7 atau 8 maka kemungkinan ada penyimpangan (P)
+            
+        </string>
+        
+        <string name="hasil3">
+            Rujukkan ke Rumah Sakit dengan menuliskan jenis dan jumlah penyimpangan perkembangan (gerak kasar, gerak halus, bicara dan bahasa, sosialisasi dan kemandirian)
+        </string>
+    <string name="about">
+        Aplikasi Deteksi Dini
+        \nDeveloper : 
+        \nVersion : 1.0\n
+        
+    </string>
+    <color name="blue_sky">#A9E2F3</color>
+
+</resources>

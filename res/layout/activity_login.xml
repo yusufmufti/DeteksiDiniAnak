@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical" 
+   android:background="@drawable/baby2">
+    
+    <EditText
+        android:id="@+id/editUsername"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="Masukkan username"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:imeOptions="actionNext"
+        />
+    
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="Masukkan password"
+        android:password="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:imeOptions="actionDone"
+        />
+    
+    <Button
+        
+        android:background="#f39c12"
+        android:textColor="#fff"
+        android:id="@+id/btnMasuk"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Masuk"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+</LinearLayout>
+
